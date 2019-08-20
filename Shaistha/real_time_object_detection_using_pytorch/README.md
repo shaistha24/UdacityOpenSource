@@ -26,7 +26,12 @@ Darknet is a framework to train neural networks, it is open source and written i
 
 ***For more details on Yolo and darknet read this article by Martina Pugliese (https://martinapugliese.github.io/recognise-objects-yolo/) and Ayoosh Kathuria ( https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b) *** 
 
+## OpenCV
+OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception. To know more visit the website (https://opencv.org)
+
 ## How does Yolo V3 Works?
+
+Before we begin, What’s the difference between image classification (recognition) and object detection? In classification, you identify what’s the main object in the image and the entire image is classified by a single class. In detection, multiple objects are identified in the image, classified, and a location is also determined (as a bounding box).  
 
 **A Fully Convolutional Neural Network**
 
@@ -149,12 +154,25 @@ NMS intends to cure the problem of multiple detections of the same image. For ex
 ***credit for the above explanation goes to Ayoosh Kathuria in his tutorial (https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)***
 
 ## Completed task based outputs
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/real_time_object_detection_using_pytorch/2019-08-21%2003_20_52-eriklindernoren_PyTorch-YOLOv3_%20Minimal%20PyTorch%20implementation%20of%20YOLOv3.png)
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/real_time_object_detection_using_pytorch/2019-08-21%2003_20_40-eriklindernoren_PyTorch-YOLOv3_%20Minimal%20PyTorch%20implementation%20of%20YOLOv3.png)
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/real_time_object_detection_using_pytorch/2019-08-21%2003_20_27-eriklindernoren_PyTorch-YOLOv3_%20Minimal%20PyTorch%20implementation%20of%20YOLOv3.png)
 
 ## End Result
 After deploying it into android app it should look something like this.
 
-## Future Improvements
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/real_time_object_detection_using_pytorch/2019-08-21%2003_29_16-GitHub%20-%20ultralytics_yolov3_%20YOLOv3%20in%20PyTorch%20_%20ONNX%20_%20CoreML%20_%20iOS.png)
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/real_time_object_detection_using_pytorch/2019-08-21%2003_29_25-GitHub%20-%20ultralytics_yolov3_%20YOLOv3%20in%20PyTorch%20_%20ONNX%20_%20CoreML%20_%20iOS.png)
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/real_time_object_detection_using_pytorch/restmb_idxmake.php.jpg)
+
+*photo credits for android view goes to https://github.com/ultralytics/yolov3 )*
+
+## Future Updates
+- Add it to android
 - Adding Facial recognition feature
 - Detect object from the set of given images or videos.
 - Try to implement and test run on different datasets.
-- Add it to android
+
+## Social Impact
+This app is mainly designed for research purpose and for learning. The featured audience is any developer interested in Computer Vision and also for AI Security/Data researchers as this can be used to find the images oor video time for specific object from the pile of images and videos!
+
