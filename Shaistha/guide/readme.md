@@ -13,14 +13,21 @@ As Visually Impaired mode , it can work in basic mode with audio feature for eas
 Firebase ML Kit is a mobile SDK that makes it easier for mobile developers to include machine learning capabilities in their applications. It consists of the following pre-built APIs:
 
    ***Text Recognition***: To recognize and extract text from images.
+   ![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2003_58_55-Firebase%20ML%20Kit%20101%20_%20Text%20Recognition%20-%20AndroIDIOTS%20-%20Medium.png)
    ***Face Detection***: To detect faces and facial landmarks along with contours.
+   ![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2003_59_11-Firebase%20ML%20Kit%20101%20_%20Face%20Detection%20-%20AndroIDIOTS%20-%20Medium.png)
    ***Object Detection and Tracking***: To detect, track and classify objects in camera and static images.
    ***Image Labelling***: Identify objects, locations, activities, animal species, and much more.
+   ![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2004_00_32-Firebase%20ML%20Kit%20101%20_%20Image%20Labeling%20-%20AndroIDIOTS%20-%20Medium.png)
    ***Barcode scanning***: Scan and process barcodes.
+   ![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2004_00_13-Firebase%20ML%20Kit%20101%20_%20Barcode%20Scanning%20-%20AndroIDIOTS%20-%20Medium.png)
    ***Landmark recognition***: Identifying popular landmarks in an image.
+   ![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2004_00_55-Firebase%20ML%20Kit%20101%20_%20Landmark%20Recognition%20-%20AndroIDIOTS%20-%20Medium.png)
    ***Language ID***: To detect the language of the text.
    ***On-Device Translation***: Translating text from one language to another.
+   ![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2004_01_25-Firebase%20ML%20Kit%20101%20_%20Language%20Identification%20-%20AndroIDIOTS%20-%20Medium.png)
    ***Smart Reply***: Generating textual replies based on previous messages.
+   ![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2004_01_40-Firebase%20ML%20Kit%20101%20_%20Smart%20Reply%20-%20AndroIDIOTS%20-%20Medium.png)
 
 Apart from that one can use their custom image classification machine learning models ***(.tflite models)*** (https://www.tensorflow.org/lite/models ) using AutoML.
 
@@ -32,6 +39,19 @@ Machine learning for mobile developers(https://developers.google.com/ml-kit/)
 ML Kit for Firebase (https://firebase.google.com/docs/ml-kit)
 
 ## End Result
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2003_29_16-GitHub%20-%20ultralytics_yolov3_%20YOLOv3%20in%20PyTorch%20_%20ONNX%20_%20CoreML%20_%20iOS.png)
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2003_29_25-GitHub%20-%20ultralytics_yolov3_%20YOLOv3%20in%20PyTorch%20_%20ONNX%20_%20CoreML%20_%20iOS.png)
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2004_19_07-google%20lens%20images%20-%20Google%20Search.png)
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2004_20_55-google%20lens%20features%20images%20-%20Google%20Search.png)
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2004_21_16-google%20lens%20features%20images%20-%20Google%20Search.png)
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2004_21_41-google%20lens%20features%20images%20-%20Google%20Search.png)
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2004_21_54-google%20lens%20features%20images%20-%20Google%20Search.png)
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2004_22_15-google%20lens%20features%20images%20-%20Google%20Search.png)
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2004_22_30-google%20lens%20features%20images%20-%20Google%20Search.png)
+Google Map 
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2004_20_46-google%20lens%20features%20images%20-%20Google%20Search.png)
+![](https://github.com/shaistha24/UdacityOpenSource/blob/Shaistha/Shaistha/guide/2019-08-21%2004_21_07-google%20lens%20features%20images%20-%20Google%20Search.png)
+
 
 ## Updates
 - Add all the ML toolkit features
